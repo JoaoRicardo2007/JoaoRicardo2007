@@ -2,7 +2,7 @@
 
 **`Desenvolvedor C#, C++, JavaScript`**
 
-Me chamo João Ricardo, tenho 18 anos, moro em Aracaju-SE. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Uninassau..
+Me chamo João Ricardo, tenho 18 anos, moro em Aracaju-SE. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Uninassau.
 
 <p align="left">
     <a href="https://www.youtube.com/@ricardoqpp?sub_confirmation=1">

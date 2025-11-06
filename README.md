@@ -26,13 +26,6 @@ Me chamo João Ricardo, tenho 18 anos, moro em Aracaju-SE. Atualmente, estou cur
             src="https://custom-icon-badges.demolab.com/github/followers/JoaoRicardo2007?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-    <a href="https://www.instagram.com/ricardoqpp" target="_blank">
-        <img 
-            alt="Instagram" 
-            title="Me siga no Instagram" 
-            src="https://img.shields.io/badge/Instagram-ricardoqpp-E1306C?style=for-the-badge&logo=instagram&logoColor=white"
-        />
-    </a>
 </p>
 
 ---

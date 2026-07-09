@@ -15,7 +15,7 @@
 
 Me chamo João Ricardo, tenho 19 anos e sou de Aracaju, SE.
 
-Atualmente curso Análise e Desenvolvimento de Sistemas na Uninassau e estudo desenvolvimento Back-end com foco em C# e .NET.
+Atualmente curso Análise e Desenvolvimento de Sistemas na Uninassau e estudo desenvolvimento Back-End com foco em C# e .NET.
 
 Tenho interesse em APIs, orientação a objetos, banco de dados e desenvolvimento de aplicações escaláveis.
 

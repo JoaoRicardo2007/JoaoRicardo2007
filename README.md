@@ -13,11 +13,9 @@
 
 ## 👨‍💻 Sobre mim
 
-Me chamo João Ricardo, tenho 19 anos e sou de Aracaju, SE.
-
-Atualmente curso Análise e Desenvolvimento de Sistemas na Uninassau e estudo desenvolvimento Back-End com foco em C# e .NET.
-
-Tenho interesse em APIs, orientação a objetos, banco de dados e desenvolvimento de aplicações escaláveis.
+Olá, eu sou o João Ricardo! 👋
+Sou um Backend Developer de 19 anos, apaixonado por construir arquiteturas sólidas, APIs eficientes e soluções escaláveis utilizando C#. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas (ADS) na Uninassau em Aracaju, Sergipe.
+Busco sempre escrever códigos limpos, seguindo boas práticas de desenvolvimento e focado em entregar alta performance para o ecossistema .NET.
 
 ---
 
@@ -80,21 +78,9 @@ Tenho interesse em APIs, orientação a objetos, banco de dados e desenvolviment
 
 ---
 
-## 🎯 Objetivos
+## 💻 O que eu busco
 
-- Conseguir minha primeira oportunidade como desenvolvedor Back-end
-- Evoluir em .NET e arquitetura de software
-- Construir projetos reais e escaláveis
-- Aprimorar minhas habilidades em banco de dados e APIs
-
----
-
-## 📌 Projetos em destaque
-
-- Sistema de cadastro de produtos
-- API REST em .NET
-- Estudos de Programação Orientada a Objetos
-- Projetos com PostgreSQL
+Unindo a base teórica da faculdade com a prática no desenvolvimento, foco em resolver problemas complexos no lado do servidor, garantir a segurança de dados e otimizar fluxos de informação. Meu objetivo é colaborar em projetos desafiadores e crescer profissionalmente criando software de alto impacto.
 
 ---
 

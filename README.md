@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="SEU_LINKEDIN">LinkedIn</a> •
-  <a href="mailto:SEUEMAIL">Email</a>
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-ricardo-2664b8365/">LinkedIn</a> •
+  <a href="joaoricardovieira8885@gmail.com">Email</a>
 </p>
 
 ---
@@ -85,20 +85,32 @@ Tenho interesse em APIs, orientação a objetos, banco de dados e desenvolviment
 <p>
   <img 
     height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    src="https://github-readme-stats.vercel.app/api?username=JoaoRicardo2007&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
   />
 
   <img 
     height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&theme=tokyonight&layout=compact&custom_title=Tecnologias"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoRicardo2007&theme=tokyonight&layout=compact&custom_title=Tecnologias"
   />
 </p>
 
 <p>
   <img 
     height="180em" 
-    src="https://streak-stats.demolab.com?user=SEUUSERNAME&theme=tokyonight&locale=pt_BR"
+    src="https://streak-stats.demolab.com?user=JoaoRicardo2007&theme=tokyonight&locale=pt_BR"
   />
+</p>
+
+---
+
+## 🐍 Cobrinha do GitHub
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoaoRicardo2007/JoaoRicardo2007/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoaoRicardo2007/JoaoRicardo2007/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JoaoRicardo2007/JoaoRicardo2007/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 ---

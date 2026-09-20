@@ -80,41 +80,6 @@ Tenho interesse em APIs, orientação a objetos, banco de dados e desenvolviment
 
 ---
 
-## 📊 Estatísticas
-
-<p>
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=JoaoRicardo2007&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-  />
-
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoRicardo2007&theme=tokyonight&layout=compact&custom_title=Tecnologias"
-  />
-</p>
-
-<p>
-  <img 
-    height="180em" 
-    src="https://streak-stats.demolab.com?user=JoaoRicardo2007&theme=tokyonight&locale=pt_BR"
-  />
-</p>
-
----
-
-## 🐍 Cobrinha do GitHub
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoaoRicardo2007/JoaoRicardo2007/output/github-contribution-grid-snake.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoaoRicardo2007/JoaoRicardo2007/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JoaoRicardo2007/JoaoRicardo2007/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
-
----
-
 ## 🎯 Objetivos
 
 - Conseguir minha primeira oportunidade como desenvolvedor Back-end

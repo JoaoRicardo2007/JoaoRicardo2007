@@ -71,8 +71,8 @@ Busco sempre escrever códigos limpos, seguindo boas práticas de desenvolviment
 
 - C#
 - .NET
-- Programação Orientada a Objetos
 - APIs REST
+- Clean Architecture (Domain-Driven Design)
 - PostgreSQL
 - Git e GitHub
 

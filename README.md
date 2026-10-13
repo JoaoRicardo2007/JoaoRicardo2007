@@ -18,7 +18,6 @@ Sou **Desenvolvedor Backend em formação**, com 19 anos, apaixonado por constru
 
 Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas (ADS)** na **Uninassau** em Aracaju, Sergipe. Busco sempre escrever códigos limpos, seguindo boas práticas de desenvolvimento (como Clean Architecture e Domain-Driven Design) e focado em entregar alta performance do lado do servidor.
 
-📍 **Barra dos Coqueiros / Aracaju, Sergipe — Brasil**
 
 ---
 

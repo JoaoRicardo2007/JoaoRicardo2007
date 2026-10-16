@@ -38,7 +38,7 @@ Foco na construção e evolução de APIs e microsserviços do lado do servidor:
 ### 💻 Análise e Desenvolvimento de Sistemas (ADS)
 **Uninassau — Aracaju**
 
---
+---
 
 ## 🛠️ Tecnologias & Ferramentas
 

@@ -29,9 +29,7 @@ Foco na construção e evolução de APIs e microsserviços do lado do servidor:
 
 - **Linguagens & Frameworks:** C#, .NET Core, ASP.NET Core
 - **Arquitetura & Boas Práticas:** Clean Architecture, DDD, CQRS, SOLID, Design Patterns
-- **Bancos de Dados:** PostgreSQL, SQLite, MySQL
 - **Testes & Ferramentas:** xUnit, Swagger, Git, GitHub
-- **Automação & Integração:** Scripting em Python, automação de tarefas e consumo de APIs
 
 ---
 
@@ -40,9 +38,7 @@ Foco na construção e evolução de APIs e microsserviços do lado do servidor:
 ### 💻 Análise e Desenvolvimento de Sistemas (ADS)
 **Uninassau — Aracaju**
 
-Formação voltada para desenvolvimento de software, modelagem de dados, arquitetura de aplicações e engenharia de sistemas.
-
----
+--
 
 ## 🛠️ Tecnologias & Ferramentas
 
@@ -53,12 +49,6 @@ Formação voltada para desenvolvimento de software, modelagem de dados, arquite
 <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-### Banco de Dados
-
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 ### Versionamento & DevOps
 
